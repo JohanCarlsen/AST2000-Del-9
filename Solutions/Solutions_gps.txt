@@ -1,0 +1,4 @@
+Solutons to 2C.8
+1. Hight of the satellites: r=4958.853956 km
+2. Velocity of the satellites: v=1.489688 km/s
+5. Your actual position in km: r=[-1772.491344,-569.529319]
